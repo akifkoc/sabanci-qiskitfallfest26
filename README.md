@@ -8,14 +8,14 @@ Bu depo, Qiskit ile kuantum programlamaya giriş atölyesinin not defterlerini i
 | Bölüm | Konu | |
 |---|---|---|
 | — | Açılış ve Colab kurulumu | |
-| 1 | Bitten kubite: klasik ve olasılıksal bit, kubit, ölçüm, X, Z, H ve RY kapıları, girişim, birim çember | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akifkoc/sabanci-qiskitfallfest26/blob/main/1_kubit.ipynb) |
+| 1 | Bitten kubite: klasik ve olasılıksal bit, kubit, ölçüm, X, Z, H ve RY kapıları, girişim, birim çember | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akifkoc/sabanci-qiskitfallfest26/blob/main/1-kubit.ipynb) |
 | — | Ara | |
-| 2 | Birden fazla kubit: tansör çarpımı, Qiskit'te kubit sırası, CNOT | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akifkoc/sabanci-qiskitfallfest26/blob/main/2_cok_kubitli_sistemler.ipynb) |
-| 3 | Dolaşıklık, Bell durumları ve yoğun kodlama | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akifkoc/sabanci-qiskitfallfest26/blob/main/3_dolasiklik_ve_yogun_kodlama.ipynb) |
+| 2 | Birden fazla kubit: tansör çarpımı, Qiskit'te kubit sırası, CNOT | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akifkoc/sabanci-qiskitfallfest26/blob/main/2-cok_kubitli_sistemler.ipynb) |
+| 3 | Dolaşıklık, Bell durumları ve yoğun kodlama | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akifkoc/sabanci-qiskitfallfest26/blob/main/3-dolasiklik_ve_yogun_kodlama.ipynb) |
 | — | Sorular ve kapanış | |
-| Ek | Birim çember, RY kapısı ve kuantum telenakil (zaman kalırsa) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akifkoc/sabanci-qiskitfallfest26/blob/main/4_ek_birim_cember_ve_telenakil.ipynb) |
+| Ek | Birim çember, RY kapısı ve kuantum telenakil (zaman kalırsa) | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akifkoc/sabanci-qiskitfallfest26/blob/main/4-ek_birim_cember_ve_telenakil.ipynb) |
 
-## Not defterlerini çalıştırmak
+## Not defterlerini çalıştırma
 
 ### Google Colab (önerilen)
 
